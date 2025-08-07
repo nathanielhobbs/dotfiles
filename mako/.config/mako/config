@@ -1,0 +1,28 @@
+# ~/.config/mako/config
+
+# timeout before auto-close (seconds)
+#default-timeout=5.0
+
+# opacity (0.0–1.0)
+#default-opacity=0.9
+
+# maximum notifications on screen
+max-visible=4
+
+# spacing between notifications
+#spacing=8
+
+# margin from the screen edge
+margin=10
+
+# border rounding (px)
+border-radius=8
+
+# colors (hex with alpha)
+background-color=#1e1e2ecc
+text-color=#cad3f5ff
+border-color=#444c56ff
+border-size=1
+
+# font
+font=JetBrainsMono Nerd Font 10
